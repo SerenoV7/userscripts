@@ -5,7 +5,7 @@
 // @description  Prevent the Anti-AdBlock from EXISTING
 // @author       Sereno
 // @match        https://nsw2u.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=codepen.io
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=nsw2u.com
 // @grant        none
 // ==/UserScript==
 
