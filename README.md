@@ -1,2 +1,2 @@
-# userscripts
- A bunch of Tampermonkey scripts
+# Sereno's Userscripts
+ Just a bunch of Tampermonkey scripts I've written.
